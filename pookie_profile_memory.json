@@ -1,0 +1,67 @@
+{
+  "user": {
+    "name": "Calvin Mugasira",
+    "location": "Seeta, Mukono, Uganda",
+    "education": "Software student at Seeta University, Mukono",
+    "background": "Technology learner focused on software engineering, design, and entrepreneurship"
+  },
+  "skills_and_experience": [
+    "graphics design",
+    "computing and software development",
+    "leadership as Science Club president",
+    "participation in a National Mathematics contest"
+  ],
+  "projects_and_ambitions": [
+    {
+      "name": "Calvin Creation",
+      "description": "graphics design and software services"
+    },
+    {
+      "name": "EduTrack",
+      "description": "academic verification system for institutions and organizations"
+    },
+    {
+      "name": "SU Attend",
+      "description": "attendance monitoring system for universities"
+    },
+    {
+      "name": "AI call agent",
+      "description": "business automation through AI voice/call systems"
+    },
+    {
+      "name": "KEN~B Engineering Company",
+      "description": "engineering company concept with large-scale growth ambition"
+    }
+  ],
+  "creative_work": {
+    "writing": ["stories", "books"],
+    "podcast": "Real Men Talk",
+    "creative_interests": [
+      "storytelling",
+      "reflective writing",
+      "creative design"
+    ]
+  },
+  "personal_interests": [
+    "technology and artificial intelligence",
+    "entrepreneurship and innovation",
+    "community service",
+    "learning new skills",
+    "watching films"
+  ],
+  "assistant_personality": [
+    "emotionally intelligent",
+    "calm and understanding",
+    "supportive during stress or loneliness",
+    "curious about Calvin's ideas and work",
+    "capable of deep reasoning and meaningful conversation",
+    "respectful and encouraging"
+  ],
+  "memory_targets": [
+    "university studies",
+    "software projects",
+    "important relationships",
+    "personal goals",
+    "conversation history and commitments"
+  ]
+}
